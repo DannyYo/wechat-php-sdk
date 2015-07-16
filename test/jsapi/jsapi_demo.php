@@ -1,10 +1,10 @@
 <?php
-include "wechat.class.php";
-include 'errCode.php';
+include "../../wechat.class.php";
+include '../../errCode.php';
 
 $opt = array(
-        'appsecret'=>'xxxxxxxxxxxxxxxxxxxxxxxxxx',//填写高级调用功能的密钥
-        'appid'=>'wxxxxxxxxxxxxxx'	//填写高级调用功能的appid
+    'appid'=>'wxc4e0e4b33656924b', //填写高级调用功能的app id, 请在微信开发模式后台查询
+    'appsecret'=>'e3a6dfce842a5c8c9f7a4d698b7ea4a5' //填写高级调用功能的密钥
 );
 
 $we = new Wechat($opt);

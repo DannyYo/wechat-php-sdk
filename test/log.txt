@@ -1,0 +1,80 @@
+GET参数为：
+array (
+  'signature' => '99d63a831c8e18056b96868419fae562e18a32d2',
+  'echostr' => '7791439644310099323',
+  'timestamp' => '1437024347',
+  'nonce' => '273685494',
+)
+
+GET参数为：
+array (
+  'signature' => '65bdf8c7547b67d32ca2ce2820cb807fd7b6b8e6',
+  'echostr' => '3669417418858909303',
+  'timestamp' => '1437024352',
+  'nonce' => '1026743932',
+)
+
+GET参数为：
+array (
+  'signature' => 'cac7473aa10dbaab432f06e7a4ff6bb37c1d3044',
+  'echostr' => '670996441509886971',
+  'timestamp' => '1437024507',
+  'nonce' => '949953734',
+)
+
+GET参数为：
+array (
+  'signature' => 'f9c700e9ad1903ea6420bd490eea819445699a5c',
+  'echostr' => '8337004669459977085',
+  'timestamp' => '1437024576',
+  'nonce' => '1056049132',
+)
+
+GET参数为：
+array (
+  'signature' => '5ee11ff1da9431926c6cb9bd9b57deb0f86acb52',
+  'echostr' => '730936550366893053',
+  'timestamp' => '1437024617',
+  'nonce' => '136548000',
+)
+
+GET参数为：
+array (
+  'signature' => '60bdefd57427871eaa9b4131787b3fdf431327f7',
+  'echostr' => '5645654480179391898',
+  'timestamp' => '1437024666',
+  'nonce' => '1707281550',
+)
+
+GET参数为：
+array (
+  'signature' => 'adde59342e4629b908302bfa59b1c6ee2c331e51',
+  'echostr' => '8033315121838670268',
+  'timestamp' => '1437024668',
+  'nonce' => '555826740',
+)
+
+GET参数为：
+array (
+  'signature' => '609ff340c157f2e70663fbdff5f1df51dfb60345',
+  'echostr' => '5989573690053315070',
+  'timestamp' => '1437024670',
+  'nonce' => '441439705',
+)
+
+GET参数为：
+array (
+)
+
+GET参数为：
+array (
+)
+
+GET参数为：
+array (
+)
+
+GET参数为：
+array (
+)
+

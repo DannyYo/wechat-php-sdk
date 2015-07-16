@@ -6,9 +6,9 @@ function logg($text){
 };
 
 $options = array(
-        'token'=>'9xxxxxxxxxxxx',	//填写应用接口的Token
-        'encodingaeskey'=>'d4oxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',//填写加密用的EncodingAESKey
-        'appid'=>'wxa0xxxxxxxxxx',	//填写高级调用功能的appid
+        'token'=>'weixin',	//填写应用接口的Token
+        //'encodingaeskey'=>'d4oxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',//填写加密用的EncodingAESKey
+        'appid'=>'wxc4e0e4b33656924b',	//填写高级调用功能的appid
         'debug'=>true,
         'logcallback'=>'logg'
 
